@@ -35,14 +35,14 @@ const server = http.createServer((req, res) => {
   }
 
   // GET /api/bootcamps - Get all bootcamps
-  if (method === 'GET' && url === '/bootcamps') {
+  if (method === 'GET' && url === '/api/bootcamps') {
     readDataFromFile(bootcampsFile, (bootcamps) => {
       res.writeHead(200);
       res.end(JSON.stringify(bootcamps));
     });
 
   // GET /api/bootcamps/:id - Get a single bootcamp
-  } else if (method === 'GET' && url.startsWith('/bootcamps/')) {
+  } else if (method === 'GET' && url.startsWith('/api/bootcamps/')) {
     const id = url.split('/')[3];
     readDataFromFile(bootcampsFile, (bootcamps) => {
       const bootcamp = bootcamps.find(b => b.id === id);
