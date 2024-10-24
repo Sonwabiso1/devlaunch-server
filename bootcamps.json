@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "name": "Capaciti",
+        "logo": "/Assets/capaciti_logo.jpg",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "97 Durham Ave, Salt River, Cape Town, 7925",
+        "contacts": "021 409 7000"
+    },
+    {
+        "id": "2",
+        "name": "Stellenbosh",
+        "logo": "/Assets/stellies_logo.png",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "331 Albert Rd, Woodstock, Cape Town, 7915",
+        "contacts": "021 202 5424"
+    },
+    {
+        "id": "3",
+        "name": "WeThinkCode",
+        "logo": "/Assets/wethinkcode-logo.png",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "97 Durham Ave, Salt River, Cape Town, 7925",
+        "contacts": "021 409 7000"
+    },
+    {
+        "id": "4",
+        "name": "UWC",
+        "logo": "/Assets/uwc_logo.png",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "Robert Sobukwe Rd, Bellville, Cape Town, 7535",
+        "contacts": "021 959 2911"
+    },
+    {
+        "id": "5",
+        "name": "UCT",
+        "logo": "/Assets/UCT_logo.jpeg",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "Rondebosch, Cape Town, 7700",
+        "contacts": "021 409 7000"
+    },
+    {
+        "id": "6",
+        "name": "CodeSpace",
+        "logo": "/Assets/codespaceLogo.jpg",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "6 Beach Rd, Woodstock, Cape Town, 80000",
+        "contacts": "021 685 0991",
+        "image": "../Assets/codespaceLogo.jpg",
+        "website": "codespace.co.za",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "courses": [
+            {
+                "name": "Software Development",
+                "overview": "Take the most direct route to starting your career in tech...",
+                "duration": "6/12 Months",
+                "financing": "Paid (Income Share Agreement available)",
+                "format": "Full Time/Part Time",
+                "campus": "Option Available",
+                "prerequisite": "None",
+                "techstack": " HTML, CSS, JAVASCRIPT, GIT, GITHUB, VISUAL STUDIO, FIGMA, ADVANCED JAVASCRIPT, REACT, VUE, ALPHINE, SVELT, TYPESCRIPT"
+            },
+            {
+                "name": "Javascript Engineering",
+                "overview": "Learn full-stack web development and build fully functional, scalable progressive web apps. In this program, the classroom becomes a simulated work environment where you will gain real-world experience collaborating with a team on Agile development projects. Learn to work smarter, not harder, using AI tools to speed up your development process and become a more efficient software developer.",
+                "duration": "6/12 Months",
+                "financing": "Paid (Income Share Agreement available)",
+                "format": "Full Time/Part Time",
+                "campus": "Option Available",
+                "prerequisite": "None",
+                "techstack": " HTML, CSS, JAVASCRIPT, GIT, GITHUB, VISUAL STUDIO, FIGMA, ADVANCED JAVASCRIPT, REACT, VUE, ALPHINE, SVELT, TYPESCRIPT"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Sandile",
+                "jobtitle": "Systems dev Intern",
+                "role": "Graduate",
+                "course": "Software Development",
+                "linkedin": "wwww.sandile.com",
+                "rating": "5",
+                "body": "Lorem ipsum t vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. "
+            },
+            {
+                "name": "Robyn",
+                "jobtitle": "Systems dev Intern",
+                "role": "Graduate",
+                "course": "Software Development",
+                "linkedin": "wwww.sandile.com",
+                "rating": "4",
+                "body": "Lorem ipsum t vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. "
+            }
+        ],
+        "financing": [
+            {
+                "type": "Income Share Agreement",
+                "description": "Apply for a income share agreement with our partner ChancenSA at low interest rates",
+                "learn-more": "codespace.org.za"
+            },
+            {
+                "type": "Installment Plan",
+                "description": "Spread the cost over monthly payments for greater flexibility",
+                "learn-more": "codespace.org.za"
+            }
+        ],
+        "Application Process": {
+            "step 1": "Pay R500 registration fee, and complete the registration fee",
+            "step 2": "Once the registration has been successful you shall receive an email on your bootcamp dates for entry test and a week of assessments to see whether or not you are well suited for the program",
+            "step 3": "You shall be asked to be called for an interview on your final day of the entry bootcamp.",
+            "step 4": "Once they’ve received the signed contract, you’ll get an acceptance email with your tuition payment details."
+        }
+    },
+    {
+        "id": "7",
+        "name": "Umuzi",
+        "logo": "/Assets/Umuzi_logo.png",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "On-Site",
+        "location": "28 Madison St, Jeppestown, Johannesburg, 2043",
+        "contacts": "021 409 7000"
+    },
+    {
+        "id": "8",
+        "name": "SheCodes",
+        "logo": "/Assets/SheCodes_logo.png",
+        "techStack": "HTML, CSS, JavaScript, Python, etc.",
+        "onlineOnsite": "Online",
+        "location": "Online",
+        "contacts": "website :)"
+    }
+]
