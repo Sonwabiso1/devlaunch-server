@@ -11,7 +11,7 @@
     {
         "id": "2",
         "name": "Stellenbosh",
-        "logo": "/Assets/stellies_logo.png",
+        "logo": "/images/stellies_logo.png",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "331 Albert Rd, Woodstock, Cape Town, 7915",
@@ -20,7 +20,7 @@
     {
         "id": "3",
         "name": "WeThinkCode",
-        "logo": "/Assets/wethinkcode-logo.png",
+        "logo": "/images/wethinkcode-logo.png",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "97 Durham Ave, Salt River, Cape Town, 7925",
@@ -29,7 +29,7 @@
     {
         "id": "4",
         "name": "UWC",
-        "logo": "/Assets/uwc_logo.png",
+        "logo": "/images/uwc_logo.png",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "Robert Sobukwe Rd, Bellville, Cape Town, 7535",
@@ -38,7 +38,7 @@
     {
         "id": "5",
         "name": "UCT",
-        "logo": "/Assets/UCT_logo.jpeg",
+        "logo": "/images/UCT_logo.jpeg",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "Rondebosch, Cape Town, 7700",
@@ -47,7 +47,7 @@
     {
         "id": "6",
         "name": "CodeSpace",
-        "logo": "/Assets/codespaceLogo.jpg",
+        "logo": "/images/codespaceLogo.jpg",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "6 Beach Rd, Woodstock, Cape Town, 80000",
@@ -119,7 +119,7 @@
     {
         "id": "7",
         "name": "Umuzi",
-        "logo": "/Assets/Umuzi_logo.png",
+        "logo": "/images/Umuzi_logo.png",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "28 Madison St, Jeppestown, Johannesburg, 2043",
@@ -128,7 +128,7 @@
     {
         "id": "8",
         "name": "SheCodes",
-        "logo": "/Assets/SheCodes_logo.png",
+        "logo": "/images/SheCodes_logo.png",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "Online",
         "location": "Online",
