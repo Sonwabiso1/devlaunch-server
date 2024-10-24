@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Capaciti",
-        "logo": "../assets/capaciti_logo.jpg",
+        "logo": "/images/capaciti_logo.jpg",
         "techStack": "HTML, CSS, JavaScript, Python, etc.",
         "onlineOnsite": "On-Site",
         "location": "97 Durham Ave, Salt River, Cape Town, 7925",
